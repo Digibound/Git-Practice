@@ -9,5 +9,5 @@ BODY
 
 FOOTER
 Company logo
-contact details:
+contact details: 88888999986
 Address
