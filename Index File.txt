@@ -2,8 +2,12 @@ HEADER
 
 
 
-BODY
 
+BODY
+<div>
+</p>
 
 
 FOOTER
+logo
+contact details
