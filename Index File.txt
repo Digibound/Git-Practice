@@ -1,8 +1,7 @@
 HEADER
 <h1>
-heading adding to this file.
 
 FOOTER
 Company logo
-contact details
+contact details:
 Address
