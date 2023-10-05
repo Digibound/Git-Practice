@@ -9,6 +9,6 @@ BODY
 
 
 FOOTER
-logo
+Company logo
 contact details
 Address
