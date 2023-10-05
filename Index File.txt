@@ -1,6 +1,6 @@
 HEADER
 <h1>
-
+heading adding to this file.
 
 
 BODY
@@ -9,6 +9,6 @@ BODY
 
 
 FOOTER
-logo
+Company logo
 contact details
 Address
