@@ -2,12 +2,6 @@ HEADER
 <h1>
 heading adding to this file.
 
-
-BODY
-<div>
-</p>
-
-
 FOOTER
 Company logo
 contact details
